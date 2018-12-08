@@ -1,5 +1,7 @@
 # JavaScript-and-DOM-Manipulation
-UFO Sightings
+UFO Sightings <br>
+
+![gettyimages-975099086-cows-ufo-aliens-farm-1120](https://user-images.githubusercontent.com/41865917/49681477-4c688700-fa70-11e8-8753-f1abf5fd26ae.jpg)
 
 ## Level 1: Automatic Table and Date Search
 Create a basic HTML web page or use the index.html file provided (we recommend building your own custom page!).
